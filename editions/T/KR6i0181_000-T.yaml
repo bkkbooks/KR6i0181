@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0181/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金色童子因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0550.xml
+    old_id: T14n0550
+hash: sha256:71c9f621837c53ff1935beadc0eacef76139d4cf2519a2de5d04f8edff4d3b70

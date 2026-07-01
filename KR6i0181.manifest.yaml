@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR6i0181/v1
+canonical_location: https://kanripo.org/bkk/KR6i0181/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金色童子因緣經
+  identifiers:
+    alt_id:
+    - T14n0550
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0550.xml
+    old_id: T14n0550
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0181_000.yaml, hash: 'sha256:71c9f621837c53ff1935beadc0eacef76139d4cf2519a2de5d04f8edff4d3b70'}
+  - {seq: 1, filename: KR6i0181_001.yaml, hash: 'sha256:02dbae35c89a1097d4a457b1c448ee48c1dcf2ae394acc5c5b5f95d471ee0bb9'}
+  - {seq: 2, filename: KR6i0181_002.yaml, hash: 'sha256:3623aad4911654ae4351db3c5136aa7df2bb243f7b25a183d71860af31177cc6'}
+  - {seq: 3, filename: KR6i0181_003.yaml, hash: 'sha256:36dde99dd303d424b4d0704e4133de1bb1fdf05ca1496c530ac34e428e6855d4'}
+  - {seq: 4, filename: KR6i0181_004.yaml, hash: 'sha256:c3094bc958d0ddb5d7baae4232142ae571f711848ff3e1b92723fa3932631874'}
+  - {seq: 5, filename: KR6i0181_005.yaml, hash: 'sha256:9b56cedd6f57c73b9844965c861f9bb4fdead30a677ed9741b1ac2dc5d61c681'}
+  - {seq: 6, filename: KR6i0181_006.yaml, hash: 'sha256:e1736c23efd6284913d83ea178f6a98aeadca96c3af104f221aa319e5d8523fb'}
+  - {seq: 7, filename: KR6i0181_007.yaml, hash: 'sha256:fec3d0adcf2ab86de6769b5395769a8b20780d5bf77693b201b80908a5f67eeb'}
+  - {seq: 8, filename: KR6i0181_008.yaml, hash: 'sha256:5ae758c2610292699fd5c167497696a7b7959dbcb4c5c1b06f549544b577ce94'}
+  - {seq: 9, filename: KR6i0181_009.yaml, hash: 'sha256:70c1f0caa5827e6635dd5c37b9593f4338d7aba4bed62f5fdaf424dbb4a9cb3a'}
+  - {seq: 10, filename: KR6i0181_010.yaml, hash: 'sha256:e0633d06df9e5057dce63856665b843aae762da26058758061101f94a94bb0bf'}
+  - {seq: 11, filename: KR6i0181_011.yaml, hash: 'sha256:daab4da8a01257adba01347e1a838bbdcd453a4d4c18e872e0da6421e4262a9f'}
+  - {seq: 12, filename: KR6i0181_012.yaml, hash: 'sha256:01d807d433395b5de1b1c4d4af3d46a97e0a4215a5dccce83d67f676513752bb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0181_001.markers.yaml, hash: 'sha256:726644760f1aaa42e16c7f651b19916d0ec6395eec496e22909badf9aeec6fda'}
+  - {seq: 2, role: markers, filename: assets/KR6i0181_002.markers.yaml, hash: 'sha256:3d49953f6fa8742806cb1ffc8d3118044e4f305d6ccd7e170cad0f30e8e0591a'}
+  - {seq: 3, role: markers, filename: assets/KR6i0181_003.markers.yaml, hash: 'sha256:c38a9620d0bc34c8e2b1807a9b8fa08e6e85a0d114e3aa77d3d46fbc81989887'}
+  - {seq: 4, role: markers, filename: assets/KR6i0181_004.markers.yaml, hash: 'sha256:55479db501e60c25022479e44f97bc51f0db3f770754cefb94fac19f1ce8b93a'}
+  - {seq: 5, role: markers, filename: assets/KR6i0181_005.markers.yaml, hash: 'sha256:bc98df9c1649fa78d5b9e3f34985a85c9257755b9f1e01f2d36c8d160dc58cda'}
+  - {seq: 6, role: markers, filename: assets/KR6i0181_006.markers.yaml, hash: 'sha256:164ee666491f7c38ef8bb2a7a76950de7afb0114a418f31f370f97b4035d923b'}
+  - {seq: 7, role: markers, filename: assets/KR6i0181_007.markers.yaml, hash: 'sha256:af68e0c470b8d14f042b1f804aafa7417b270fad2374f507ac2c83367e30f6c0'}
+  - {seq: 8, role: markers, filename: assets/KR6i0181_008.markers.yaml, hash: 'sha256:6db8c4f473c10d1150ac235677217acb71eb801231436e0dd8dd5d039e1687ba'}
+  - {seq: 9, role: markers, filename: assets/KR6i0181_009.markers.yaml, hash: 'sha256:4ee60c4e59fa310668ebcde9d6cf164e24a87a01aeadc6462470573d08099243'}
+  - {seq: 10, role: markers, filename: assets/KR6i0181_010.markers.yaml, hash: 'sha256:1b6012264732f019862b34522943c433822385e786b2e96c60b163eb8ebbb13b'}
+  - {seq: 11, role: markers, filename: assets/KR6i0181_011.markers.yaml, hash: 'sha256:8e44e63ab5dab3107fec53de7a0e0c8e79c6490272bbf7c06bc8279b707290c4'}
+  - {seq: 12, role: markers, filename: assets/KR6i0181_012.markers.yaml, hash: 'sha256:32c041ee7ce9772b91b5812283ba593cc0b313c13783dddf015bad27ec2844bd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0181_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2694
+  label: 金色童子因緣經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0181_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 2570
+  label: 金色童子因緣經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0181_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 2614
+  label: 金色童子因緣經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0181_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 2523
+  label: 金色童子因緣經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0181_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 3118
+  label: 金色童子因緣經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0181_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 2955
+  label: 金色童子因緣經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0181_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 3131
+  label: 金色童子因緣經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0181_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 3271
+  label: 金色童子因緣經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0181_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 2617
+  label: 金色童子因緣經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0181_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 4040
+  label: 金色童子因緣經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0181_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 4415
+  label: 金色童子因緣經卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0181_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 3757
+  label: 金色童子因緣經卷第十二
+  type: juan
+  level: 1
+hash: sha256:80857bb09e097c797138c298a82d50ff39311a01d3497d5856bcc118f7c84418
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
